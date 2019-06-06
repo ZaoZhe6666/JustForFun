@@ -1,0 +1,28 @@
+# 请输入Click中C中心位置坐标
+click_x = 176
+click_y = 210
+
+# 请输入刷新键中心位置坐标
+refreshx = 107
+refreshy = 69
+
+# 请输入CC auto字样中，第一个大写C中央位置坐标
+cc_auto_x = 613
+cc_auto_y = 562
+
+# 请输入拉杆后，No中的o中央位置坐标
+no_x = 459
+no_y = 630
+
+# 物品数
+item_num = 20
+
+# hash值
+roll_page_hash = '01c8000006800ee01ff03ff83ff87ffc7cde3f3c1e761f001fb01ff83fffffff'
+handle_hash = 'e0c7c1f381f980fc00fc003800000000000000008000c001e000f00ffe7fffff'
+confirm_hash = 'ffff00000000ffffffffffffffff80018001fffffffffffff81ff81ff81ff81f'
+yes_hash = '00000000000000001a001e001ff80df00ff80d180df000000000000000000000'
+success_hash = 'ffff00000000ffff00000000f7ffffffffffffffffffffffffffffffffffffff'
+cc_btn_hash = 'ffffa7ff07f707f76ff76e406e006f006f046e046e046e0406040600a640b640'
+monkey_say_hash = '07ff03ff03ff023f03ff03ff03ff02eb02634bff5bffdbffdbff4bff4bff07ff'
+block_hash = '3ef7ffff26c626c6ffffffffffffffffffffffffffffffffffffffffffffffff'
